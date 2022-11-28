@@ -1,5 +1,7 @@
 <?php
 
+// how to run exc1: Run php primes_ascii_scripts.php multiples
+// how to run exc2: Run php primes_ascii_scripts.php ascii
 
 switch($argv[1])
 {
